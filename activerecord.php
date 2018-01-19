@@ -1,3 +1,4 @@
+/** Add new property in model */
 class ClassName extends \yii\db\ActiveRecord
 {
 
